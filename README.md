@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katleschris
-- 👀 I’m interested in Web development and 3D animations
+- 👀 I’m interested in Web development, 3D animations and Game development
 - 🌱 I’m currently doing the Meta frontend developer course
 - 
 -
