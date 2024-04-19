@@ -1,6 +1,10 @@
 ## Hello there!👋 
 ### About me
- I am a software developer who's passionate about all things tech. My GitHub profile is where I share my projects and collaborate with others in the programming community. I'm constantly learning and improving my skills, and I'm excited to connect with other developers who share my interests. When I'm not coding, you can find me exploring the great outdoors or burried in a book. Thanks for stopping by my profile, and feel free to reach out and say hello!
+-👋 Hi, I'm Christabel -👀 I am a Software Developer, I love learning.
+
+🌱 I’m currently learning C++.
+💞️ I’m love nature and candy
+📫 Here's how to reach me:Email: kcleshiba@gmaiil.com
 
 <!---
 katleschris/katleschris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
