@@ -3,7 +3,7 @@
 -👋 Hi, I'm Christabel -👀 I am a Software Developer, I love learning.
 
 🌱 I’m currently learning C++.
-💞️ I’m love nature and candy
+💞️ I’m in love nature and candy
 📫 Here's how to reach me:Email: kcleshiba@gmaiil.com
 
 <!---
